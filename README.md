@@ -25,13 +25,13 @@ It inludes Active Directory Management, Network configuration, Group Policy Obje
   - Storage: 32 GB of disk space <br />
 
 <h2>Deploymeny & Configuration Steps</h2>
-1. Virtual Lab Setup in Hyper-V
-2. Windows Server 2022 Installation & Configuration
-3. Organizational Units, User Accounts, and Security Groups
-4. Group Policy Management
-5. File Server Setup and Permissions Configuration
-6. Network Printer Depolyment
-7. Backup Implementation
+1. Virtual Lab Setup in Hyper-V  <br />
+2. Windows Server 2022 Installation & Configuration  <br />
+3. Organizational Units, User Accounts, and Security Groups  <br />
+4. Group Policy Management  <br />
+5. File Server Setup and Permissions Configuration  <br />
+6. Network Printer Depolyment  <br />
+7. Backup Implementation  <br />
 
 ## Disclaimer
 
