@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 This project provides a walkthrough in implementing on-premises Active Directory using Hyper-V for an organisation.
-It inludes Active Directory Management, Network configuration, Group Policy Objects, Security Groups, File and Printer Server Setup and Configurations.
+It includes Active Directory Management, Network configuration, Group Policy Objects, Security Groups, File and Printer Server Setup and Configurations.
 
 <h2>Tools and Technologies</h2>
 * Hyper-V <br />
